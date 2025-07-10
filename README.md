@@ -1,27 +1,31 @@
 # Healthcare-Data-Analysis
 
-#🩺 Healthcare Data Analysis – Diabetes Prediction & Pattern Discovery
+🩺 Healthcare Data Analysis – Diabetes Prediction & Pattern Discovery
+
 This project explores a real-world healthcare dataset focused on diabetes diagnosis. Using Python and data analysis libraries like Pandas, Seaborn, and Scikit-learn, the project identifies patterns, correlations, and risk factors associated with diabetes. The goal is to uncover meaningful insights for preventive healthcare and build a basic predictive model to classify diabetes outcomes.
 
-#📌 Key Objectives
-Analyze patient health metrics to identify trends linked to diabetes
+📌 Key Objectives
 
-Visualize feature relationships (e.g., glucose, BMI, age)
+-Analyze patient health metrics to identify trends linked to diabetes
 
-Discover age-wise prevalence patterns
+-Visualize feature relationships (e.g., glucose, BMI, age)
 
-Build a basic machine learning model to predict diabetes risk
+-Discover age-wise prevalence patterns
 
-#🔧 Tools & Technologies
+-Build a basic machine learning model to predict diabetes risk
+
+🔧 Tools & Technologies
+
 Python
 
-Pandas and NumPy for data manipulation
+1. Pandas and NumPy for data manipulation
 
-Matplotlib and Seaborn for data visualization
+2. Matplotlib and Seaborn for data visualization
 
-Scikit-learn for classification model and evaluation
+3. Scikit-learn for classification model and evaluation
 
 📊 Dataset
+
 Source: diabetes.csv
 
 Features: Glucose, Blood Pressure, Insulin, BMI, Age, etc.
@@ -29,12 +33,13 @@ Features: Glucose, Blood Pressure, Insulin, BMI, Age, etc.
 Target: Outcome (1 = diabetes, 0 = no diabetes)
 
 🔍 Project Highlights
-Cleaned and preprocessed healthcare data
 
-Correlation heatmap and outcome-based feature distributions
+-Cleaned and preprocessed healthcare data
 
-Age group-based diabetes rate analysis
+-Correlation heatmap and outcome-based feature distributions
 
-Random Forest Classifier for disease prediction
+-Age group-based diabetes rate analysis
 
-Feature importance ranking to identify critical health factors
+-Random Forest Classifier for disease prediction
+
+-Feature importance ranking to identify critical health factors
